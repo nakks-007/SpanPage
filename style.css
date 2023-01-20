@@ -1,0 +1,13 @@
+.myList {
+    list-style-type: none;
+    margin-left: 200px;
+    padding-top: 20px;
+    background-color: aqua;
+    padding-bottom: 15px;
+}
+
+.myList li {
+    display: inline;
+    margin: 10px;
+
+}
